@@ -1,7 +1,9 @@
-#pain Au lait
-![Pain Au lait](/home/bcuser/Pictures/bun.jpg /var/www/html/images/. "Pain Au lait")
+**pain Au lait**
+![Pain au lait](http://www.pbs.org/food/wp-content/blogs.dir/2/files/2015/02/pain-au-lait640x360.jpg  "Pain Au lait")
 
-##Ingredients:
+
+
+**Ingredients:**
 
 -   Lukewarm full-fat milk 150 ml
 -   Fast-action yeast 5 grams
@@ -14,7 +16,7 @@
 -   pearl sugar, for sprinkling
 
 
-##Method:
+**Method:**
 
 - In a small bowl, mix the milk and yeast together, and set aside for five minutes.
 - In a large bowl, mix the flours, sugar and salt until thoroughly combined.

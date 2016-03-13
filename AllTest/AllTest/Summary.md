@@ -1,4 +1,3 @@
-* [OrangePudding.html](OrangePudding.html)
 * [Pain Au lait.html](Pain Au lait.html)
 * [Patissarie.html](Patissarie.html)
 * [WalkingMapArshad.html](WalkingMapArshad.html)

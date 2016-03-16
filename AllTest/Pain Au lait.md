@@ -31,3 +31,6 @@ Weigh the dough and cut into 12 equal pieces. Roll into balls and leave to rest,
 -  Place the buns, seam-side down, onto baking trays lined with baking parchment.
 - Cover the dough with cling film and allow to rise for 30 minutes.
 - Brush each of the buns with egg and, using scissors, snip a zig-zag shape onto the top. Sprinkle with pearl sugar and bake for 10-12 minutes.
+
+
+[Home](http://localhost/Patissarie.html) 

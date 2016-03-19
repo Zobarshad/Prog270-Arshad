@@ -14,6 +14,13 @@
 **Method:**
 
 -  Mix all the ingredients and bake it for 45 minites at 350 degree FH. 
--  Chill overnight or 4 hours mininmum. 
+-  Chill overnight or 4 hours mininmum.
 
-[Home](http://localhost/Patissarie.html) 
+
+<br/>
+<br/>
+<br/>
+<br/>
+   
+
+- [Home](http://localhost/Patissarie.html) 

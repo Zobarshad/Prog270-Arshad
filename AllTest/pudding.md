@@ -23,4 +23,4 @@
 <br/>
    
 
-- [Home](http://localhost/Patissarie.html) 
+- [Home](http://52.25.251.210/Patissarie.html)  

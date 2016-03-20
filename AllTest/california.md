@@ -19,7 +19,7 @@
   <p>
    <br/>
    <br/>
-   <img class="twenty-five-percent" alt="California Coast" src="images/california/2015-12-19_09.52.45.jpg" title="California Coast"/>
+   <img class="twenty-five-percent" alt="California Coast" src="images/2015-12-19_09.52.45.jpg" title="California Coast"/>
    <br/>
    <br/>
    Coastal California, also known as the California Coastline and the Golden Coast, refers to the coastal regions of the US state of California.

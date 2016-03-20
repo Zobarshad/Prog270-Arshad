@@ -30,7 +30,7 @@
   <p>
    <br/>
    <br/>
-   <img class="twenty-five-percent" alt="San Diego Zoo" src="images/california/2015-12-19_13.09.50.jpg" title="San Diego Zoo"/>
+   <img class="twenty-five-percent" alt="San Diego Zoo" src="images/2015-12-19_13.09.50.jpg" title="San Diego Zoo"/>
    <br/>
    <br/>
    The San Diego Zoo is a zoo in Balboa Park, San Diego, California housing over 3,700 animals of more than 650 species and subspecies.
@@ -41,7 +41,7 @@
   <p>
    <br/>
    <br/>
-   <img class="twenty-five-percent" alt="Gondolas" src="images/california/2015-12-19_13.10.00.jpg" title="Gondolas"/>
+   <img class="twenty-five-percent" alt="Gondolas" src="images/2015-12-19_13.10.00.jpg" title="Gondolas"/>
    <br/>
    <br/>
    Take an airborne shortcut over the treetops to the other end of the Zoo and enjoy spectacular views of the Zoo, its animal and plant collection, and surrounding Balboa Park.
@@ -50,7 +50,7 @@
    Polar Bears
   </h1>
   <p>
-   <img class="twenty-five-percent" alt="Polar Bears" src="images/california/2015-12-19_13.27.30.jpg" title="Polar Bears"/>
+   <img class="twenty-five-percent" alt="Polar Bears" src="images/2015-12-19_13.27.30.jpg" title="Polar Bears"/>
    <br/>
    Polar Bear
   </p>
@@ -61,7 +61,7 @@
    Mandrin Ducks
   </h1>
   <p>
-   <img class="twenty-five-percent" alt="Ducks" src="images/california/2015-12-19_13.39.21.jpg" title="Ducks"/>
+   <img class="twenty-five-percent" alt="Ducks" src="images//2015-12-19_13.39.21.jpg" title="Ducks"/>
    <br/>
    <br/>
    The mandarin duck, or just mandarin, is a perching duck species found in East Asia.

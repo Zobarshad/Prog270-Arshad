@@ -8,12 +8,12 @@
   <link href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.1/styles/github.min.css" rel="stylesheet"/>
   <style type="text/css">
    img.twenty-five-percent {
-   width: 50%;
+   width: 75%;
 }
   </style>
  </head>
  <body>
-  <h1 id="canada">
+  <h1 id="">
    Canada
   </h1>
   <p>
@@ -26,7 +26,7 @@
    <br/>
    <br/>
 
-   <img class="twenty-five-percent" alt="Light House" src="images/2016-02-27_10.09.03.jpg" title="Light House"/>
+   <img class="twenty-five-percent" alt="Light House" src="/images/2016-02-27_10.09.03.jpg" title="Light House"/>
    <br/>
    A lighthouse is a tower, building, or other type of structure designed to emit light from a system of lamps and lenses and <br/>used as a navigational aid for maritime pilots at sea or on inland waterways.
    <br/>
@@ -36,7 +36,7 @@
    Coast:
   </h2>
   <p>
-   <img class="twenty-five-percent" alt="Coast" src="images/2016-02-27_15.36.53.jpg" title="Coast"/>
+   <img class="twenty-five-percent" alt="Coast" src="/images/2016-02-27_15.36.53.jpg" title="Coast"/>
    <br/>
    <br/>
    <br/>
@@ -48,7 +48,7 @@
    Rocky Coast:
   </h2>
   <p>
-   <img class="twenty-five-percent" alt="Rocky Coast" src="images/2016-02-27_10.45.45.jpg" title="Rocky Coast"/>
+   <img class="twenty-five-percent" alt="Rocky Coast" src="/images/2016-02-27_10.45.45.jpg" title="Rocky Coast"/>
    <br/>
    <br/>
    <br/>
@@ -60,7 +60,7 @@
    Water Fall:
   </h2>
   <p>
-   <img class="twenty-five-percent" alt="Water Fall" src="images/2016-02-27_12.47.09.jpg" title="Water Fall"/>
+   <img class="twenty-five-percent" alt="Water Fall" src="/images/2016-02-27_12.47.09.jpg" title="Water Fall"/>
    <br/>
    <br/>
    <br/>
@@ -72,7 +72,7 @@
    BeautiFul View:
   </h2>
   <p>
-   <img class="twenty-five-percent" alt="BeautiFul View" src="images/2016-02-27_15.52.33.jpg" title="BeautiFul View"/>
+   <img class="twenty-five-percent" alt="BeautiFul View" src="/images/2016-02-27_15.52.33.jpg" title="BeautiFul View"/>
   </p>
 <br/>
 We live in a wonderful world that is full of beauty, charm and adventure. There is no end to the adventures that <br/>we can have if only we seek them with our eyes open(Jawaharlal Nehru).

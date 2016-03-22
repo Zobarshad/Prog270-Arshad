@@ -1,7 +1,5 @@
 
-# Final Website
 
-##Here is the list of Web pages I have made sofar.
 
 - [Pictures.](http://52.25.251.210/Pictures/Summary.html) 
 - [Pattissarie.](http://52.25.251.210/Pattissarie/Summary.html) 

@@ -1,7 +1,16 @@
 
-# Spring Is Here:
-## Spring Is Here:
+
+
+
+
+![Spring](/images/spring.jpg  "Spring")
+
+# Spring Is Here
+
+## Spring Is Here
+
 ### Spring Is Here:
+
 
 >“Never cut a tree down in the wintertime. Never make a negative decision in the low time. Never make your most important decisions when you are in your worst moods. Wait. Be patient. The storm will pass. The spring will come.” — Robert H. Schuller
 
